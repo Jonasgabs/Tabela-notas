@@ -1,4 +1,3 @@
 # Tabela-de-Notas
 
-##LINK 
-https://jonasifpb.github.io/Tabela-notas/
+##LINK https://jonasgabs.github.io/Tabela-notas/
